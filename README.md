@@ -1,5 +1,20 @@
 ![Dino gif](./dino.gif)
 
+Hey, I'm Anastasiia ![cat gif](./cat.gif)
+
+<pre>
+ const anst = {
+  pronouns: "she" | "her",
+  code: [Python, Javascript, C#, Bash, SQL],
+  tools: [Jupyter, Matplotplib, Numpy, Pandas, PyTorch, Tensorflow, Flask, Kivy],
+  languages: {
+                        fluent: "English",
+                        beginner: "German",
+                      },
+ study: "I am studying Master Artificial Intelligence at Technische hochschule Würzburg-Schweinfurt"
+}
+</pre>
+
 <!--
 **stDem/stDem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
