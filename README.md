@@ -4,7 +4,7 @@
 <p><em>AI master student at <a href="https://mai.thws.de/">Technische Hochschule Würzburg-Schweinfurt</a>
 </em></p>
 
-[![Linkedin: anst-dem](https://img.shields.io/badge/-anstdem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anst-dem/)](www.linkedin.com/in/anst-dem)
+[![Linkedin: anst-dem](https://img.shields.io/badge/-anstdem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anst-dem/)](https://www.linkedin.com/in/anst-dem)
 [![GitHub stDem](https://img.shields.io/github/followers/stDem?label=follow&style=social)](https://github.com/stDem)
 
 ### About...  
