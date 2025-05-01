@@ -2,7 +2,7 @@
 
 Hey, I'm Anastasiia ![cat gif](./cat.gif)
 
-<pre>
+<pre> ```javascript
  const anst = {
   pronouns: "she" | "her",
   code: [Python, Javascript, C#, Bash, SQL],
@@ -12,8 +12,7 @@ Hey, I'm Anastasiia ![cat gif](./cat.gif)
                         beginner: "German",
                       },
  study: "I am studying Master Artificial Intelligence at Technische hochschule Würzburg-Schweinfurt"
-}
-</pre>
+}``` </pre>
 
 <!--
 **stDem/stDem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
