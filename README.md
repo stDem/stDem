@@ -1,6 +1,11 @@
 <img src="./dino.gif" width="100%">
 
-# Hey, I'm Anastasiia <img src="./cat.gif" width="66">
+<h1>Hey, I'm Anastasiia <img src="./cat.gif" width="66"></h1>
+<p><em>AI master student at <a href="https://mai.thws.de/">Technische Hochschule Würzburg-Schweinfurt</a>
+</em></p>
+
+[![Linkedin: anst-dem](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](www.linkedin.com/in/anst-dem)
+[![GitHub stDem](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/stDem)
 
 ### About...  
 
@@ -15,4 +20,10 @@
                       },
  study: "I am studying Master Artificial Intelligence at Technische hochschule Würzburg-Schweinfurt"
 }
+```
 
+### AI projects:
+
+
+
+### Web projects:
