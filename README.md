@@ -23,7 +23,15 @@
 ```
 
 ### AI projects:
-
+- **ML, NLP, Web**: Dota2 draft prediction (https://github.com/stDem/Dota2-draft-prediction);
+- **Computer Vision, ML**: Fall detection (https://github.com/stDem/Fall_Detection_Project);
+- **ANN**: Numpy array images classification (https://github.com/stDem/ANN-numpy-array-images);
+- **ML**: Motions classification (https://github.com/stDem/Motions_classification);
+- **ML**: Classification of Onion dataset (https://github.com/stDem/Classification-of-Onion-dataset).
 
 
 ### Web projects:
+- **ReactJS, Chakra UI**: Portfolio website (https://github.com/stDem/Portfolio-site);
+- **JS, HTML, SCSS, API**: Work Space website (https://github.com/stDem/WorkSpace---portfolio-site);
+- **ReactJS, SCSS, API**: Little Lemon Restaurant website (https://github.com/stDem/Little_Lemon_website-Capstone_project_coursera);
+- **Vue.js, SCSS**: Interior Design website (https://github.com/stDem/InteriorDesign---portfolio-site).
