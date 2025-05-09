@@ -13,7 +13,7 @@
  const anst = {
   pronouns: "she" | "her",
   code: [Python, Javascript, C#, Bash, SQL],
-  tools: [Jupyter, Matplotplib, Numpy, Pandas, PyTorch, Tensorflow, Flask, Kivy],
+  tools: [Jupyter, Matplotplib, Numpy, Pandas, PyTorch, Tensorflow, scikit-learn, OpenCV, Keras, Flask, Kivy],
   languages: {
                         fluent: "English",
                         beginner: "German",
