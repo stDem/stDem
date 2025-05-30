@@ -24,7 +24,7 @@
 
 ### AI projects:
 - **ML, NLP, Web**: Dota2 draft prediction (https://github.com/stDem/Dota2-draft-prediction);
-- **Computer Vision, ML**: Fall detection (https://github.com/stDem/Fall-Detection-Project);
+- **Computer Vision, ML, Mobile app, Chatbot**: Fall detection (https://github.com/stDem/Fall-Detection-Project);
 - **ANN**: Numpy array images classification (https://github.com/stDem/ANN-numpy-array-images);
 - **ML**: Motions classification (https://github.com/stDem/Motions-classification);
 - **ML**: Classification of Onion dataset (https://github.com/stDem/Classification-of-Onion-dataset).
