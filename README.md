@@ -1,4 +1,4 @@
-<img src="dino.gif" width="100%">
+<img src="pixelgame.gif" width="100%">
 
 <h1>Hey, I'm Anastasiia <img src="cat.png" width="66"></h1>
 <p><em>AI master student at <a href="https://mai.thws.de/">Technische Hochschule Würzburg-Schweinfurt</a>
