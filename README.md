@@ -33,5 +33,5 @@
 ### Web projects:
 - **ReactJS, Chakra UI**: Portfolio website (https://github.com/stDem/Portfolio-site);
 - **JS, HTML, SCSS, API**: Work Space website (https://github.com/stDem/WorkSpace---portfolio-site);
-- **ReactJS, SCSS, API**: Little Lemon Restaurant website (https://github.com/stDem/Little_Lemon_website-Capstone_project_coursera);
+- **ReactJS, SCSS, API**: Little Lemon Restaurant website (https://github.com/stDem/Little-Lemon-website);
 - **Vue.js, SCSS**: Interior Design website (https://github.com/stDem/InteriorDesign---portfolio-site).
