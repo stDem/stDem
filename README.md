@@ -12,8 +12,8 @@
 ```javascript
  const anst = {
   pronouns: "she" | "her",
-  code: [Python, JavaScript/TypeScript, HTML5, CSS/SCSS, SQL, C #],
-  Python Frameworks & Libraries: [PyTorch, TensorFlow, Numpy, Pandas, Keras, Flask, scikit-learn, Jupyter, Matplotplib, OpenCV, Kivy],
+  code: [Python, JavaScript/TypeScript, HTML5, CSS/SCSS, SQL, C#],
+  Python Frameworks & Libraries: [PyTorch, TensorFlow, Numpy, Pandas, Keras, Flask, scikit-learn],
   Web Frameworks & Libraries: [React JS, Vue.js, Bootstrap, Chakra UI, Material UI],
   languages: {
                         C1: "English",
