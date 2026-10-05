@@ -1,7 +1,8 @@
 <img src="pixelgame.gif" width="100%">
 
 <h1>Hey, I'm Anastasiia <img src="cat.png" width="66"></h1>
-<p><em>AI master student at <a href="https://mai.thws.de/">Technische Hochschule Würzburg-Schweinfurt</a>
+<p><em>AI @<a href="https://mai.thws.de/">BMW</a>
+<p><em>AI MSc @<a href="https://mai.thws.de/">THWS</a>
 </em></p>
 
 [![Linkedin: anst-dem](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anst-dem/)](https://www.linkedin.com/in/anst-dem)
@@ -19,11 +20,12 @@
                         C1: "English",
                         B1: "German",
                       },
- study: "I am studying Master Artificial Intelligence at Technische hochschule Würzburg-Schweinfurt"
+ study: "Master Artificial Intelligence at Technische hochschule Würzburg-Schweinfurt"
 }
 ```
 
 ### AI projects:
+- **Computer Vision**: Autonomous driving car (https://github.com/stDem/Autonomous-driving-car-JetRacer-NVIDIA);
 - **GenAI, LLM**: Summarizing Dialogue (https://github.com/stDem/Generative-AI-with-LLMs);
 - **ML, NLP, Web**: Dota2 draft prediction (https://github.com/stDem/Dota2-draft-prediction);
 - **AI API, TS, React, Tailwind CSS**: AI Web Design Analysis (https://github.com/stDem/AI-Web-Design-Analysis);
